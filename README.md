@@ -93,14 +93,6 @@ fun main() {
 
 ---
 
-## 🎮 Now Playing
-
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31an44yojfp4lpb6vkcdquhe6bma&count=1" />
-</p>
-
----
-
 ## ☕ Let's Connect
 
 <p align="center">
