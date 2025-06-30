@@ -6,7 +6,7 @@
   <img src="https://media1.tenor.com/m/7Tu-pBzg0_kAAAAd/programming.gif" width="300px" />
 </p>
 
-<h3 align="center">🎮 Kotlin & Flutter Enthusiast • Gamer at Heart • Code Alchemist 🧪</h3>
+<h3 align="center">🎮 Kotlin & Flutter Enthusiast • Gamer • Code Alchemist 🧪</h3>
 <h4 align="center">🎓 Mahasiswa Semester Akhir - Universitas Teknokrat Indonesia</h4>
 
 ---
